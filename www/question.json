@@ -1,0 +1,85 @@
+ {
+  
+    "question": "Which of the following is not a valid border style property value?",
+    "choices": ["dotted","glazed","inset","solid"],
+    "correctAnswer": 2
+  }, {
+    "question": "There are 16 basic css color keywords in CSS,which of the following is not basic color keyword?",
+    "choices": ["cyan","olive","aqua","maroon"],
+    "correctAnswer": 0
+  }, {
+    "question": "choose the correct HTML tag for largest heading",
+    "choices": ["H1","Head","H6","Heading"],
+    "correctAnswer": 0
+  }, {
+    "question": "How can you make a list that lists the items with number?",
+    "choices": ["OL","DI","UI","list"],
+    "correctAnswer": 0
+  }, {
+    "question": "How can you make a list that lists the items with bullets?",
+   "choices": ["OL","DI","UI","list"],
+   " correctAnswer": 3
+  }, {
+    "question": "What is the name of every homepage on the WWW?",
+    "choices": ["home.html","anything you want it to be.html","index.html","the name of your website.html"],
+    "correctAnswer": 2
+  }, {
+    "question": "What does CSS stands for?",
+    "choices": ["creative style sheets","colorful style sheets","computer style sheets","cascading style sheets"],
+    "correctAnswer": 3
+  }, {
+    "question": "How do you insert a comment in a CSS file?",
+    "choices": ["this is a comment","/*this is a comment*/","//this is a comment","//this is a comment//"],
+    "correctAnswer": 1
+  }, {
+    "question": "Which property is used to change the backgrounf color?",
+    "choices": ["Bgcolor:","Background-color:","color:","none of the above"],
+    "correctAnswer": 1
+  }, {
+    "question": "Which function is use to get cookies in PHP?",
+    "choices": ["getcookie()","$_COOKIE","isset()","None of Above"],
+    "correctAnswer": 1
+  },{
+    "question": "Which is used to parse an XML document in PHP?",
+    "choices": ["simplexml_load_string()","loadxml()","Both A and B","None of above"],
+    "correctAnswer": 2
+  }, {
+    "question": "What is size of short variable?",
+    "choices": [8,16,32,64],
+    "correctAnswer": 2
+  }, {
+    "question": "What is default value of int?",
+    "choices": [0,"0.0","null","Not of Above"],
+    "correctAnswer": 0
+  }, {
+    "question": "What is default value of local variable?",
+    "choices": ["null",0,"depend on variable","not assign"],
+    "correctAnswer": 3
+  }, {
+    "question": "Which CSS property control the text size?",
+    "choices": ["front-size","front-style","text-style","text-size text-size"],
+    "correctAnswer": 0
+  }, {
+    "question": "The is doctype mandatory",
+    "choices": ["true","false"],
+    "correctAnswer": 0
+  }, {
+    "question": "Which of the following elements can you attach JQuery events to?",
+    "choices": ["object","embed","applet","none of above"],
+    "correctAnswer": 3
+  }, {
+    "question": "Stats show that Jquery is used by roughly how many websites as at march 2013?",
+    "choices": ["45 million","29 million","19 million","12 million"],
+    "correctAnswer": 2
+  }, {
+    "question": "when was the initial release of the jquery library?",
+    "choices": ["June 2006","July 2006","Aug 2006","Sept 2006"],
+    "correctAnswer": 2
+  },
+   {
+    "question": "Which sign does jquery use as a shortcut for jquery?",
+     "choices":["the % sign","the ? sign","the $ sign","None of Above"],
+   "correctAnswer": 2
+  }
+  
+ 
